@@ -1,0 +1,8 @@
+C:\Users\eerka\source\repos\KampIntro\ClassInto\obj\Debug\ClassInto.csproj.AssemblyReference.cache
+C:\Users\eerka\source\repos\KampIntro\ClassInto\obj\Debug\ClassInto.csproj.SuggestedBindingRedirects.cache
+C:\Users\eerka\source\repos\KampIntro\ClassInto\obj\Debug\ClassInto.csproj.CoreCompileInputs.cache
+C:\Users\eerka\source\repos\KampIntro\ClassInto\bin\Debug\ClassInto.exe.config
+C:\Users\eerka\source\repos\KampIntro\ClassInto\bin\Debug\ClassInto.exe
+C:\Users\eerka\source\repos\KampIntro\ClassInto\bin\Debug\ClassInto.pdb
+C:\Users\eerka\source\repos\KampIntro\ClassInto\obj\Debug\ClassInto.exe
+C:\Users\eerka\source\repos\KampIntro\ClassInto\obj\Debug\ClassInto.pdb
